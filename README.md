@@ -82,6 +82,6 @@ Modelele antrenate (MLP și Autoencoder) pot fi exportate în format JSON și re
 
 ## Setul de date
 
-Tennessee Eastman Process este un proces chimic simulat, utilizat frecvent în literatura de specialitate pentru detecția defecțiunilor industriale. Setul de date conține 52 de variabile — 41 de măsurători de proces și 11 variabile manipulate — și acoperă atât scenarii de funcționare normală, cât și 21 de tipuri de defecte.
+Tennessee Eastman Process este un proces chimic simulat, utilizat frecvent în literatura de specialitate pentru detecția defecțiunilor industriale. Setul de date conține 52 de variabile - 41 de măsurători de proces și 11 variabile manipulate - și acoperă atât scenarii de funcționare normală, cât și 21 de tipuri de defecte.
 
 În cadrul acestui proiect, rulările 1–30 sunt folosite pentru antrenare, iar rulările 31–50 pentru testare. Primele 100 de mostre din fiecare rulare sunt excluse, deoarece corespund perioadei de inițializare a procesului.
