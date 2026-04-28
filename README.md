@@ -50,7 +50,7 @@ Antrenarea rulează asincron, astfel încât interfața rămâne responsivă pe 
 
 ### 5. Evaluarea rețelei MLP
 
-Modelul antrenat este evaluat pe setul de test, iar rezultatele sunt prezentate prin mai multe metrici: acuratețe, eroare pătratică medie (MSE), rădăcina erorii pătratice medii (RMSE) și eroarea absolută medie (MAE). O mostră este clasificată ca defectuoasă dacă ieșirea rețelei depășește pragul de 0.5.
+Modelul antrenat este evaluat pe setul de test, iar rezultatele sunt prezentate prin mai multe metrici: acuratețe, eroare pătratică medie (MSE), acuratețea, precizia, recall-ul și scorul F1. O mostră este clasificată ca defectuoasă dacă ieșirea rețelei depășește pragul de 0.5.
 
 <img width="1152" height="688" alt="Screenshot 2026-04-26 161759" src="https://github.com/user-attachments/assets/53da2c3b-e139-46ba-b4d0-e988bfc8c5b0" />
 
